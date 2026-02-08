@@ -13,17 +13,17 @@ namespace TravelManagementApp.Controllers
             _context = context;
         }
 
-        // Check if user is logged in
-        private bool IsLoggedIn()
+        // Check if user is Customer
+        private bool IsCustomer()
         {
-            return HttpContext.Session.GetInt32("CustomerID") != null;
+            return HttpContext.Session.GetString("Role") == "Customer";
         }
 
         public IActionResult MyBookings(string statusFilter = "")
         {
-            if (!IsLoggedIn())
+            if (!IsCustomer())
             {
-                return RedirectToAction("Login", "Account");
+                return RedirectToAction("Index", "Home");
             }
 
             int customerId = HttpContext.Session.GetInt32("CustomerID") ?? 0;
@@ -53,9 +53,9 @@ namespace TravelManagementApp.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(int tripId)
         {
-            if (!IsLoggedIn())
+            if (!IsCustomer())
             {
-                return RedirectToAction("Login", "Account");
+                return RedirectToAction("Index", "Home");
             }
 
             var customerId = HttpContext.Session.GetInt32("CustomerID");
@@ -82,9 +82,9 @@ namespace TravelManagementApp.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult UpdateStatus(int bookingId, string status)
         {
-            if (!IsLoggedIn())
+            if (!IsCustomer())
             {
-                return RedirectToAction("Login", "Account");
+                return RedirectToAction("Index", "Home");
             }
 
             var booking = _context.Bookings.Find(bookingId);

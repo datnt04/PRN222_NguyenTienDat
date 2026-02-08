@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelDataAccess\\TravelDataAccess.csproj": {}
+    "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelDataAccess\\TravelDataAccess.csproj": {}
   },
   "projects": {
-    "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelDataAccess\\TravelDataAccess.csproj": {
+    "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelDataAccess\\TravelDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelDataAccess\\TravelDataAccess.csproj",
+        "projectUniqueName": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelDataAccess\\TravelDataAccess.csproj",
         "projectName": "TravelDataAccess",
-        "projectPath": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelDataAccess\\TravelDataAccess.csproj",
+        "projectPath": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelDataAccess\\TravelDataAccess.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelDataAccess\\obj\\",
+        "outputPath": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

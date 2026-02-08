@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ffIvTA4+q+c=",
+  "dgSpecHash": "za9xPDCw2E0=",
   "success": true,
-  "projectFilePath": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\TravelManagementApp.csproj",
+  "projectFilePath": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\TravelManagementApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

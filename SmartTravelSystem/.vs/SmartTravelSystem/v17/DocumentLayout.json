@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\",
+  "WorkspaceRootPath": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravelsystem\\travelmanagementapp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravelsystem\\travelmanagementapp\\views\\booking\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\views\\booking\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravelsystem\\travelmanagementapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravelsystem\\travelmanagementapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravelsystem\\travelmanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravel\\smarttravelsystem\\travelmanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravelsystem\\travelmanagementapp\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravel\\smarttravelsystem\\travelmanagementapp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravel\\smarttravelsystem\\travelmanagementapp\\views\\booking\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\views\\booking\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravel\\smarttravelsystem\\travelmanagementapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravel\\smarttravelsystem\\travelmanagementapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravel\\smarttravelsystem\\travelmanagementapp\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravelsystem\\travelmanagementapp\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravel\\smarttravelsystem\\travelmanagementapp\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravelsystem\\travelmanagementapp\\travelmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravel\\smarttravelsystem\\travelmanagementapp\\travelmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\travelmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravelsystem\\travelmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravel\\smarttravelsystem\\travelmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravelsystem\\travelmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|d:\\ki_6\\prn222\\smarttravel\\smarttravelsystem\\travelmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{22160DB3-4A55-4DE6-A545-F07E90258743}|TravelManagementApp\\TravelManagementApp.csproj|solutionrelative:travelmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C1CA961-3F9C-407B-AB0B-BCE53B5C621C}|TravelDataAccess\\TravelDataAccess.csproj|d:\\ki_6\\prn222\\smarttravelsystem\\traveldataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C1CA961-3F9C-407B-AB0B-BCE53B5C621C}|TravelDataAccess\\TravelDataAccess.csproj|d:\\ki_6\\prn222\\smarttravel\\smarttravelsystem\\traveldataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C1CA961-3F9C-407B-AB0B-BCE53B5C621C}|TravelDataAccess\\TravelDataAccess.csproj|solutionrelative:traveldataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,11 +74,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MyBookings.cshtml",
-              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Views\\Booking\\MyBookings.cshtml",
+              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Views\\Booking\\MyBookings.cshtml",
               "RelativeDocumentMoniker": "TravelManagementApp\\Views\\Booking\\MyBookings.cshtml",
-              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Views\\Booking\\MyBookings.cshtml",
+              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Views\\Booking\\MyBookings.cshtml",
               "RelativeToolTip": "TravelManagementApp\\Views\\Booking\\MyBookings.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -86,24 +86,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BookingController.cs",
-              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Controllers\\BookingController.cs",
+              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "TravelManagementApp\\Controllers\\BookingController.cs",
-              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Controllers\\BookingController.cs",
               "RelativeToolTip": "TravelManagementApp\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwC4AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T09:35:36.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T09:35:36.401Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Views\\Index.cshtml",
+              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Views\\Index.cshtml",
               "RelativeDocumentMoniker": "TravelManagementApp\\Views\\Index.cshtml",
-              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Views\\Index.cshtml",
+              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Views\\Index.cshtml",
               "RelativeToolTip": "TravelManagementApp\\Views\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -113,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "TripController.cs",
-              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Controllers\\TripController.cs",
+              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Controllers\\TripController.cs",
               "RelativeDocumentMoniker": "TravelManagementApp\\Controllers\\TripController.cs",
-              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Controllers\\TripController.cs",
+              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Controllers\\TripController.cs",
               "RelativeToolTip": "TravelManagementApp\\Controllers\\TripController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,9 +124,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "TravelManagementApp.csproj",
-              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\TravelManagementApp.csproj",
+              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\TravelManagementApp.csproj",
               "RelativeDocumentMoniker": "TravelManagementApp\\TravelManagementApp.csproj",
-              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\TravelManagementApp.csproj",
+              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\TravelManagementApp.csproj",
               "RelativeToolTip": "TravelManagementApp\\TravelManagementApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -135,23 +134,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TravelManagementApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TravelManagementApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-08T09:29:36.491Z"
+              "WhenOpened": "2026-02-08T09:29:36.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "TravelManagementApp\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "TravelManagementApp\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -159,11 +159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "TravelManagementApp\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Controllers\\AccountController.cs",
               "RelativeToolTip": "TravelManagementApp\\Controllers\\AccountController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAgwCIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,9 +173,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Program.cs",
+              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Program.cs",
               "RelativeDocumentMoniker": "TravelManagementApp\\Program.cs",
-              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\Program.cs",
+              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\Program.cs",
               "RelativeToolTip": "TravelManagementApp\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwCEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -185,9 +185,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\appsettings.json",
+              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\appsettings.json",
               "RelativeDocumentMoniker": "TravelManagementApp\\appsettings.json",
-              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelManagementApp\\appsettings.json",
+              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelManagementApp\\appsettings.json",
               "RelativeToolTip": "TravelManagementApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -197,9 +197,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelDataAccess\\Class1.cs",
+              "DocumentMoniker": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelDataAccess\\Class1.cs",
               "RelativeDocumentMoniker": "TravelDataAccess\\Class1.cs",
-              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravelSystem\\TravelDataAccess\\Class1.cs",
+              "ToolTip": "D:\\Ki_6\\PRN222\\SmartTravel\\SmartTravelSystem\\TravelDataAccess\\Class1.cs",
               "RelativeToolTip": "TravelDataAccess\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

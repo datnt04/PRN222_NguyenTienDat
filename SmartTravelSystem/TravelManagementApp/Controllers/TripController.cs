@@ -12,17 +12,17 @@ namespace TravelManagementApp.Controllers
             _context = context;
         }
 
-        // Check if user is logged in
-        private bool IsLoggedIn()
+        // Check if user is Admin
+        private bool IsAdmin()
         {
-            return HttpContext.Session.GetInt32("CustomerID") != null;
+            return HttpContext.Session.GetString("Role") == "Admin";
         }
 
         public IActionResult Index()
         {
-            if (!IsLoggedIn())
+            if (!IsAdmin())
             {
-                return RedirectToAction("Login", "Account");
+                return RedirectToAction("Index", "Home");
             }
 
             var trips = _context.Trips.ToList();
@@ -32,9 +32,9 @@ namespace TravelManagementApp.Controllers
         // GET: Trip/Create
         public IActionResult Create()
         {
-            if (!IsLoggedIn())
+            if (!IsAdmin())
             {
-                return RedirectToAction("Login", "Account");
+                return RedirectToAction("Index", "Home");
             }
 
             return View();
@@ -45,9 +45,9 @@ namespace TravelManagementApp.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(Trip trip)
         {
-            if (!IsLoggedIn())
+            if (!IsAdmin())
             {
-                return RedirectToAction("Login", "Account");
+                return RedirectToAction("Index", "Home");
             }
 
             if (ModelState.IsValid)
@@ -63,9 +63,9 @@ namespace TravelManagementApp.Controllers
         // GET: Trip/Edit/5
         public IActionResult Edit(int id)
         {
-            if (!IsLoggedIn())
+            if (!IsAdmin())
             {
-                return RedirectToAction("Login", "Account");
+                return RedirectToAction("Index", "Home");
             }
 
             var trip = _context.Trips.Find(id);
@@ -82,9 +82,9 @@ namespace TravelManagementApp.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(int id, Trip trip)
         {
-            if (!IsLoggedIn())
+            if (!IsAdmin())
             {
-                return RedirectToAction("Login", "Account");
+                return RedirectToAction("Index", "Home");
             }
 
             if (id != trip.TripId)
